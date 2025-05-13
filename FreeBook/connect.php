@@ -1,6 +1,6 @@
 <?php
 try{
-    $pdo = new PDO("mysql:host=localhost;dbname=demo", "root", "qebfix-fiqgy4-kabGim");
+    $pdo = new PDO("mysql:host=localhost;dbname=book_db;", "root", "qebfix-fiqgy4-kabGim");
     //Set the PDO error mode to exception
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
