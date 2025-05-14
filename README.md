@@ -1,6 +1,5 @@
 # FreeBooks
 This project is created for university assignment.
-Sure! Here's your content converted into normal plain text (without any HTML tags or formatting):
 
 ---
 
