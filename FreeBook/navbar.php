@@ -16,8 +16,8 @@
         <li class="nav-item <?= basename($_SERVER['PHP_SELF']) == 'about.php' ? 'active' : '' ?>">
           <a class="nav-link" href="about.php"><i class="fa fa-info-circle"></i> About</a>
         </li>
-        <li class="nav-item <?= basename($_SERVER['PHP_SELF']) == 'create.php' ? 'active' : '' ?>">
-          <a class="nav-link" href="create.php"><i class="fa fa-upload"></i> Upload Book</a>
+        <li class="nav-item <?= basename($_SERVER['PHP_SELF']) == 'Create.php' ? 'active' : '' ?>">
+          <a class="nav-link" href="Create.php"><i class="fa fa-upload"></i> Upload Book</a>
         </li>
       </ul>
     </div>
