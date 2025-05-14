@@ -44,6 +44,8 @@ if (isset($_POST["id"]) && !empty($_POST["id"])) {
 <head>
     <meta charset="UTF-8">
     <title>Delete Book</title>
+        <link rel="icon" type="image/png" href="assets/icons8-book-32.png">
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
