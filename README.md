@@ -2,7 +2,7 @@
 
 # FreeBooks 📚
 
-*A Free Book-Sharing Platform*
+--A Free Book-Sharing Platform--
 
 This project was created as a university assignment for the PHP course in the Web Development class.
 
